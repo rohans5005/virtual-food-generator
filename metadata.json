@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Food Photographer",
+  "description": "Generate high-quality, stylized food photography from a text-based menu. Edit photos with text prompts using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
